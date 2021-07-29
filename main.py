@@ -17,5 +17,4 @@ label = Label(root, font=("Retroica", 80),
 label.pack(anchor="center")
 
 time()
-
 mainloop()
